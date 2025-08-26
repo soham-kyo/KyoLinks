@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self' https://cdnjs.cloudflare.com; style-src 'self' https://cdnjs.cloudflare.com 'unsafe-inline'; img-src 'self' data:; font-src 'self' https://cdnjs.cloudflare.com; connect-src 'self';"
+    />
+
+    <style>
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        background: linear-gradient(135deg, #6e00ff, #9c27b0) !important;
+        min-height: 100vh;
+      }
+      .container {
+        opacity: 0;
+      }
+      .container.loaded {
+        opacity: 1;
+      }
+    </style>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+
+    <meta property="og:type" content="website" />
+    <title>KyoLinks</title>
+    <meta
+      name="description"
+      content="Soham Patil's digital hub - All my important links in one beautiful place."
+    />
+    <meta property="og:title" content="KyoLinks - Soham Patil" />
+    <meta
+      property="og:description"
+      content="My personal link hub with a beautiful glassmorphic design"
+    />
+    <meta property="og:url" content="https://soham-kyo.github.io/kyolinks" />
+
+    />
+  </head>
+  <body>
+    <div class="container">
+      <div class="profile">
+        <img
+          src="assets/profile.jpeg"
+          alt="Profile Picture"
+          class="profile-pic"
+        />
+        <h1>Soham Surendrakumar Patil</h1>
+        <p>|| GPA'26 🎓 || ex-RSMLITE 👨🏻‍🎓 ||</p>
+
+        <div class="mini-socials">
+          <a
+            href="https://github.com/soham-kyo"
+            target="_blank"
+            rel="noopener noreferrer"
+            ><i class="fab fa-github"></i
+          ></a>
+          <a href="#" id="emailLink"><i class="fas fa-envelope"></i></a>
+          <a
+            href="https://linkedin.com/in/sohamkyo"
+            target="_blank"
+            rel="noopener noreferrer"
+            ><i class="fab fa-linkedin"></i
+          ></a>
+        </div>
+      </div>
+      <p>🚀Computer Engineering| 👨🏻‍💻Web Developer | 📊Data Science</p>
+      <div class="links">
+        <a
+          href="https://github.com/soham-kyo"
+          target="_blank"
+          rel="noopener noreferrer"
+          ><i class="fab fa-github"></i> GitHub</a
+        >
+        <a
+          href="https://leetcode.com/u/soham-kyo"
+          target="_blank"
+          rel="noopener noreferrer"
+          ><i class="fas fa-code"></i> LeetCode</a
+        >
+        <a
+          href="https://linkedin.com/in/sohamkyo"
+          target="_blank"
+          rel="noopener noreferrer"
+          ><i class="fab fa-linkedin"></i> LinkedIn</a
+        >
+        <a
+          href="https://x.com/soham_kyo"
+          target="_blank"
+          rel="noopener noreferrer"
+          ><i class="fab fa-x-twitter"></i> X (Twitter)</a
+        >
+        <a
+          href="https://instagram.com/soham.kyo/"
+          target="_blank"
+          rel="noopener noreferrer"
+          ><i class="fab fa-instagram"></i> Instagram</a
+        >
+      </div>
+
+      <div class="actions">
+        <button id="shareBtn"><i class="fas fa-share-alt"></i> Share</button>
+        <button id="qrBtn"><i class="fas fa-qrcode"></i> QR Code</button>
+      </div>
+
+      <div id="qrModal" class="qr-modal">
+        <div class="qr-content animate">
+          <span id="closeQR">&times;</span>
+          <h2>Scan this QR to visit KyoLinks</h2>
+          <div id="qrCanvas"></div>
+        </div>
+      </div>
+
+      <footer>
+        <p>Made by Soham Patil</p>
+      </footer>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
