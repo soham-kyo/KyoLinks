@@ -69,3 +69,5 @@ That's how KyoLinks was born 🖇️. Even  though Linktree is back now, KyoLink
 - Optimized animations
 
 ---
+
+## 📸 Screenshots
