@@ -97,6 +97,8 @@ code .
 # Or simply open index.html in your browser
 ```
 
+---
+
 ### 📁 Project Structure
 
 ```
@@ -266,3 +268,5 @@ _Made by [Soham Patil](https://github.com/soham-kyo)_
 **[⬆ Back to Top](#-kyolinks)**
 
 </div>
+
+---
