@@ -125,6 +125,9 @@ KyoLinks/
 ├── ⚡ script.js          
 ├── 📂 Assets/  
 │   ├── 🖼️ profile.jpeg 
+│   ├── 💻 desktop.png
+│   ├── 🤳🏻 mobile.png
+│   ├── 📊 qr-modal.png
 │   └── 🌠 icons/
 │        ├── 💬 about.txt
 │        ├── 📱 android-chrome-192x192.png
