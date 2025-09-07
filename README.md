@@ -71,6 +71,23 @@ That's how KyoLinks was born 🖇️. Even though Linktree is back now, KyoLinks
 
 ## 📸 Screenshots
 
+<div align="center">
+
+### 🖥️ Desktop View 🖥️
+<img src="./Assets/desktop.png" width="600px" alt="Desktop Screenshot" />
+
+---
+
+### 📱 Mobile View 📱
+<img src="./Assets/mobile.png" width="20%" alt="Mobile Screenshot" />
+
+---
+
+### 📊 QR Code Modal 📊
+<img src="./Assets/qr-modal.png" width="600px" alt="QR Code Modal Screenshot" />
+
+</div>
+
 ---
 
 ## 🛠️ Installation
