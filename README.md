@@ -277,9 +277,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-### 🚀 **Ready to Launch Your Own KyoLinks?**
+### 🚀 **Ready to Launch Your Own Link in Bio Platform?**
 
-**Star ⭐ this repo • Fork 🍴 it • Deploy 🚀 it**
+**Star this repo ⭐  • Fork it 🍴 • Deploy it 🚀**
 
 _Made by [Soham Patil](https://github.com/soham-kyo)_
 
