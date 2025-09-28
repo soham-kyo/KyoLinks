@@ -33,7 +33,7 @@ It centralizes all your important links in one beautiful, accessible place, KyoL
 In mid of August 2025, Linktree went completely inaccessible in India for a few days due to an unxplained outage. I had an account on Linktree for like 6 months, but suddenly I couldn't access it anymore.
 That incident made me realize - depending on a third-party service can be risky. So I thought: why not build my own link-in-bio alternative, something I fully control and customize however I like?
 
-That's how KyoLinks was born 🖇️. Even though Linktree is back now, KyoLinks gives me (and hopefully others) a reliable, personal,and customizable platform.
+That's how KyoLinks was born 🖇️. Even though Linktree is back now, KyoLinks gives me (and hopefully others) a reliable, personal, and customizable platform.
 
 ---
 
